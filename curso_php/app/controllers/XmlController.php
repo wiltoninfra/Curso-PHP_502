@@ -1,6 +1,6 @@
 <?php
 
-class HomeController extends BaseController {
+class XmlController extends BaseController {
 
 	/*
 	|--------------------------------------------------------------------------
@@ -15,9 +15,11 @@ class HomeController extends BaseController {
 	|
 	*/
 
+public function showWelcome()
+	{
+		$view = View::make('helslo');
+		
+				
+	}
 
-public function home(){
-	
-return View::make('Home::data.data');
-}
 }

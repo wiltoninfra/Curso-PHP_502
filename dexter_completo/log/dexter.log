@@ -565,3 +565,32 @@
 [ 04/11/2013 02:13:13 ] Conectado ao banco 'pgsql'
 [ 04/11/2013 02:13:13 ] SQL executada : 'SELECT descricao, link FROM menus WHERE prf_id = ? ORDER BY id ASC'
 [ 04/11/2013 02:13:13 ] SQL parametros : (admin)
+[ 28/01/2015 21:43:49 ] Conectado ao banco 'pgsql'
+[ 28/01/2015 21:43:49 ] SQL executada : 'SELECT descricao, link FROM menus WHERE prf_id = ? ORDER BY id ASC'
+[ 28/01/2015 21:43:49 ] SQL parametros : (front)
+[ 28/01/2015 21:43:49 ] SQL executada : 'SELECT * FROM banners'
+[ 28/01/2015 21:43:49 ] SQL parametros : ()
+[ 28/01/2015 21:43:54 ] Conectado ao banco 'pgsql'
+[ 28/01/2015 21:43:54 ] SQL executada : 'SELECT descricao, link FROM menus WHERE prf_id = ? ORDER BY id ASC'
+[ 28/01/2015 21:43:54 ] SQL parametros : (front)
+[ 28/01/2015 21:43:54 ] SQL executada : 'SELECT * FROM banners'
+[ 28/01/2015 21:43:54 ] SQL parametros : ()
+[ 28/01/2015 21:43:56 ] Conectado ao banco 'pgsql'
+[ 28/01/2015 21:43:56 ] SQL executada : 'SELECT descricao, link FROM menus WHERE prf_id = ? ORDER BY id ASC'
+[ 28/01/2015 21:43:56 ] SQL parametros : (front)
+[ 28/01/2015 21:43:57 ] Conectado ao banco 'pgsql'
+[ 28/01/2015 21:43:58 ] SQL executada : 'SELECT descricao, link FROM menus WHERE prf_id = ? ORDER BY id ASC'
+[ 28/01/2015 21:43:58 ] SQL parametros : (front)
+[ 28/01/2015 21:43:59 ] Conectado ao banco 'pgsql'
+[ 28/01/2015 21:43:59 ] SQL executada : 'SELECT descricao, link FROM menus WHERE prf_id = ? ORDER BY id ASC'
+[ 28/01/2015 21:43:59 ] SQL parametros : (front)
+[ 28/01/2015 21:44:01 ] Conectado ao banco 'pgsql'
+[ 28/01/2015 21:44:01 ] SQL executada : 'SELECT * FROM conteudos WHERE id = ?'
+[ 28/01/2015 21:44:01 ] SQL parametros : (1)
+[ 28/01/2015 21:44:01 ] SQL executada : 'SELECT descricao, link FROM menus WHERE prf_id = ? ORDER BY id ASC'
+[ 28/01/2015 21:44:01 ] SQL parametros : (front)
+[ 28/01/2015 21:44:03 ] Conectado ao banco 'pgsql'
+[ 28/01/2015 21:44:03 ] SQL executada : 'SELECT descricao, link FROM menus WHERE prf_id = ? ORDER BY id ASC'
+[ 28/01/2015 21:44:03 ] SQL parametros : (front)
+[ 28/01/2015 21:44:03 ] SQL executada : 'SELECT * FROM banners'
+[ 28/01/2015 21:44:03 ] SQL parametros : ()

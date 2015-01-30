@@ -10,6 +10,16 @@
 | and give it the Closure to execute when that URI is requested.
 |
 */
+/*
+Route::get('/', ['uses' => 'HomeController@home']);
+
+Route::get('/xml', ['uses' => 'XmlController@showWelcome'])
+*/
+Route::get('/xml', function()
+{
+	return View::make('xml');
+});
+
 
 Route::get('/', function()
 {
